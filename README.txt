@@ -1,4 +1,4 @@
-Projeto Curso Alura - site fictício da "Barbearia Alura".
+Projeto Curso Alura - site "Barbearia Alura" (fictício).
 
 Descrição:
 Projeto desenvolvido por mim, durante o curso de HTML5 e CSS3.
