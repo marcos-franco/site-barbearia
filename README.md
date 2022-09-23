@@ -15,7 +15,7 @@ conforme o desenvolvimento das aulas, fui me capacitando e aprimorando meus conh
 
 ## Links Úteis:
 
-- Visite o Site site "Barbearia Alura", clicando [aqui.](https://marcos-franco.github.io/site-barbearia/index.html)
+- Visite o site "Barbearia Alura", clicando [aqui.](https://marcos-franco.github.io/site-barbearia/index.html)
 - Visite o Repositório do site-barbearia no Github, clicando [aqui.](https://github.com/marcos-franco/site-barbearia)
 
 
