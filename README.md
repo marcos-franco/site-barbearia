@@ -1,24 +1,33 @@
-<h1 align="center">Projeto: site "Barbearia Alura" (fictício).</h1>
+#   Projeto site "Barbearia Alura"
+
+![preview](./preview.png)
 
 ## Descrição:
 Projeto, pondo em prática meus conhecimentos em HTML e CSS, e
 conforme o desenvolvimento das aulas, fui me capacitando e aprimorando meus conhecimentos nas linguagens.
 
-## Linguagens Utilizadas:
 
-- [x] HTML
-- [x] CSS
+[🔗 Clique aqui para acessar](https://marcos-franco.github.io/site-barbearia/)
+
+
+## 🛠 Tecnologias:
+- HTML
+- CSS
+- Git
+- Github
 
 ## Status do Projeto:
-
 100% Concluído
 
-## Links Úteis:
-
-- Visite o site "Barbearia Alura", clicando [aqui.](https://marcos-franco.github.io/site-barbearia/index.html)
-- Visite o Repositório do site-barbearia no Github, clicando [aqui.](https://github.com/marcos-franco/site-barbearia)
-
-
 ## Autor:
-
 Projeto desenvolvido por [Marcos Franco](https://www.linkedin.com/in/marcosfranco-5b1a8a111/)
+
+## 💛 Contatos:
+
+Linkedin: https://www.linkedin.com/in/marcosfranco-5b1a8a111/
+
+Repositório Github: https://github.com/marcos-franco
+
+WhatSapp: https://contate.me/marcos-franco
+
+E-mail: masf68@hotmail.com
