@@ -7,7 +7,7 @@ Projeto, pondo em prática meus conhecimentos em HTML e CSS, e
 conforme o desenvolvimento das aulas, fui me capacitando e aprimorando meus conhecimentos nas linguagens.
 
 
-[🔗 Clique aqui para acessar](https://marcos-franco.github.io/site-barbearia/)
+[🔗 Clique aqui para acessar o site Barbearia Alura](https://marcos-franco.github.io/site-barbearia/)
 
 
 ## 🛠 Tecnologias:
